@@ -1,3 +1,7 @@
+# Lotte BIT BOX
+
+[Lotte BIT BOX 노션 링크](https://www.notion.so/zhuns/Lotte-Bit-Box-20e10700c67846f9b2448718747cdc10)
+
 # Git 컨벤션
 
 > JIRA, GIT, CODE에서 코드 작성 및 커밋 규칙을 작성합니다.
