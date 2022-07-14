@@ -22,7 +22,7 @@ git branch feature/BE/기능(story별)
 
 ### 커밋 룰 (Sub-task)
 
-![Untitled](../images/Untitled.png)
+![Untitled](./images/Untitled.png)
 
 ```tsx
 git commit -m "[jira이슈 번호] 컨벤션 : 커밋메세지"
@@ -30,7 +30,7 @@ git commit -m "[jira이슈 번호] 컨벤션 : 커밋메세지"
 
 ## 컨벤션
 
-![Untitled](../images/Untitled%201.png)
+![Untitled](./images/Untitled%201.png)
 
 → 정확한 작업 JIRA 없을시 epic 번호 사용
 
